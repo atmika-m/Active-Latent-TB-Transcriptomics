@@ -44,7 +44,7 @@ fit2 <- eBayes(fit2)
 # Extract DEG table
 deg <- topTable(fit2, number = Inf, adjust.method = "BH")
 
-# Save outputs
+# Save output
 write.csv(deg, "results/GSE19491/DEG_table.csv")
 write.csv(expr_clean, "results/GSE19491/expression_matrix.csv")
 write.csv(metadata_clean, "results/GSE19491/metadata_clean.csv")

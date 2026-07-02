@@ -57,7 +57,4 @@ The study integrates transcriptomics, bioinformatics, and machine learning to id
 
 ## Author
 **Mrunalline Atmika**
-
-**Mrunalline Atmika**
-
-M.Sc. Microbiology | Transitioning into Bioinformatics & Computational Biology
+M.Sc. Microbiology 
